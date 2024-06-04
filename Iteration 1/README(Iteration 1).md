@@ -9,25 +9,17 @@ Location: EIT Tairawhiti
 
 
 
-Sponsor:
-Anastasia Mozhaeva
-Name of Group:
-KBVN
-Group Lead:
-Kyle A. Chisholm (CEO)
-Note taker:
-Neri I. J. West
-Attendees:
-Kyle A. Chisholm (CEO), Varun Wadhwa (Security), Brent Forge (Manager/Designer), Neri I. J. West (Developer)
-Absent:
-No
-Please bring:
-Laptop
-Agenda items:
-Establish the stakeholders, role and requirements in the project
+Sponsor: Anastasia Mozhaeva
+Name of Group: KBVN
+Group Lead: Kyle A. Chisholm (CEO)
+Note taker: Neri I. J. West
+Attendees: Kyle A. Chisholm (CEO), Varun Wadhwa (Security), Brent Forge (Manager/Designer), Neri I. J. West (Developer)
+Absent: No
+Please bring: Laptop
+Agenda items: Establish the stakeholders, role and requirements in the project
 Set up meeting schedule for development of commerce website
 
-Minutes
+Minutes 
 Agenda Item 1:
 Establish the stakeholders, role and requirements in the project
 Presenter:
